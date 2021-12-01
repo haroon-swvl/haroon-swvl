@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Haroon joined SWVL as Director of Engineering
-- 👀 I’m interested in helping the team become more efficient and grow
-- 🌱 I’m currently learning team topologies and organisation designs
+- 👀 I’m interested in helping the teams to become more efficient and engineers to grown in their roles
+- 🌱 I’m currently learning team topologies and organisational designs
 - 💞️ I’m looking to collaborate on everything related to developer experience, observability and production engineering
 - 📫 How to reach me Slack: @haroon, Email: haroon.rasheed@swvl.com
 
